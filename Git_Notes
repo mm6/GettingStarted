@@ -1,0 +1,34 @@
+Git Notes
+=========
+
+git init
+========
+
+Within a directory with or without files do    
+
+git status
+==========
+
+Check the status on what is being tracked
+
+git add .
+=========
+
+Moves files from untracked to tracked
+
+git commit
+==========
+
+Commits tracked files
+Runs Vi and use ESC : wq! commands
+
+Creating a new repo on GitHub
+=============================
+Use Green button on GitHub home page
+
+
+To push an existing local repo to GitHub
+=======================================
+
+
+
