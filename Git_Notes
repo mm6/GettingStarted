@@ -32,6 +32,6 @@ To push an existing local repo to GitHub
 git remote add origin https://github.com/mm6/GettingStarted.git
 git push -u origin master
 
-
+Refresh page on GitHub or you will not see the new repo
 
 
