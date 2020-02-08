@@ -29,6 +29,9 @@ Use Green button on GitHub home page
 
 To push an existing local repo to GitHub
 =======================================
+git remote add origin https://github.com/mm6/GettingStarted.git
+git push -u origin master
+
 
 
 
