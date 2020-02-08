@@ -34,4 +34,7 @@ git push -u origin master
 
 Refresh page on GitHub or you will not see the new repo
 
+To update the local changes to GitHub
+=====================================
 
+git push
