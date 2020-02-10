@@ -38,3 +38,7 @@ To update the local changes to GitHub
 =====================================
 
 git push
+
+
+I have set the global git user.name to "Michael McCarthy" and the
+user.email to "mm6@andrew.cmu.edu"
