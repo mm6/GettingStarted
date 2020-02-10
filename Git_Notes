@@ -58,3 +58,16 @@ git push
 
 I have set the global git user.name to "Michael McCarthy" and the
 user.email to "mm6@andrew.cmu.edu"
+
+
+To get a remote repo and place it on your local system.
+=======================================================
+git clone <url> <where to clone to>
+
+git clone ../remote_repo.git  .
+
+git clone https://github.com/mm6/remote_repo.git  .
+
+
+
+git remote -v
