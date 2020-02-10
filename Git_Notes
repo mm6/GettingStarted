@@ -33,6 +33,11 @@ To include the comment (rather than running vi)
 git commit -m "A comment describing the commit"
 
 
+git log
+=======
+Shows hash numbers associated with each commit
+
+
 Creating a new repo on GitHub
 =============================
 Use Green button on GitHub home page
