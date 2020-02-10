@@ -74,3 +74,21 @@ git remote -v
 
 Checking on differences
 git diff
+
+Common workflow
+===============
+# Create a local branch
+git branch calc-divide
+#begin to work on that braqnch
+git checkout calc-divide
+
+#make changes locally and save them
+git status
+git add .
+git commit -m "Cool change"
+
+#put this new branch up on github
+git push -u origin calc-divide
+
+# origin is name of remote repository
+
