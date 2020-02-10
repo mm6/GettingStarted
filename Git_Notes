@@ -1,6 +1,6 @@
 **********  Spring 2020 Notes on Git ****************
 
-Add from working directory to staging area
+Add from working directory (untracked) to staging area
 Commit from staging area to repo
 
 
@@ -27,6 +27,11 @@ git commit
 
 Commits tracked files
 Runs Vi and use ESC : wq! commands
+
+
+To include the comment (rather than running vi)
+git commit -m "A comment describing the commit"
+
 
 Creating a new repo on GitHub
 =============================
