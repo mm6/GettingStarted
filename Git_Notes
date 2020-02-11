@@ -92,3 +92,14 @@ git push -u origin calc-divide
 
 # origin is name of remote repository
 
+# Suppose you commit and then mess up stuff
+# You want to get back to that old commit
+# First find its hash
+git log
+
+# Now git with reset to the old commit -- kills everything you have done since
+
+git reset --hard dda5bca2742529a6b733aef968a5e68ae329f950
+
+
+
